@@ -6,3 +6,13 @@
     background-color: rgb(245, 181, 63);
     background-image: linear-gradient(to right , rgb(245, 181, 63),rgb(248, 247, 244));
 }
+
+a {
+    color: black;
+    transition: color .2s;
+}
+a:hover {
+    background-color: aliceblue;
+
+}
+
